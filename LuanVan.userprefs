@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Camera2DFollow.cs">
+    <Files>
+      <File FileName="Assets\Script\GameMaster.cs" Line="24" Column="20" />
+      <File FileName="Assets\Script\SecondPlayerScript.cs" Line="27" Column="4" />
+      <File FileName="Assets\Script\MoveTrail.cs" Line="7" Column="27" />
+      <File FileName="Assets\Script\Camera2DFollow.cs" Line="61" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
