@@ -18,4 +18,5 @@ Tên đề tài: Phát triển Game - Sinh tồn ở hành tinh mới - 
 •	Tạo âm thanh cơ bản cho game: khi nhân vật nhảy, khi nhân vật đã nhảy lên và chạm bề mặt trở lại, khi nhân vật duy chuyển v.v...
 •	Tạo Menu vào game
 •	Tạo hệ thống Upgrade cho nhân vật chính để có thể chống lại quái vật trong các màn chơi mỗi màn chơi.
-
+     3. Thư mục chứa game được build sau khi đã hoàn tất game.
+     4. Code mã nguồn và các thư viện hổ trợ làm game.
